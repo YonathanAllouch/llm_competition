@@ -40,7 +40,7 @@ git clone https://github.com/YonathanAllouch/llm_competition.git
 ```
 #### Navigate to the project directory:
 ```
-cd LLM-Competition-Analyzer
+cd LLM_Competition
 ```
 #### Install required Python packages:
 ```
@@ -82,6 +82,4 @@ Contributions to the LLM Competition Analyzer are welcome. Please feel free to f
 
 This project is open-sourced under the MIT License.
 
-
-### Demo
 
